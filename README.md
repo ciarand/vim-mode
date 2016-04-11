@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ## Vim Mode package
 
 :rotating_light: Package is experimental :rotating_light:
